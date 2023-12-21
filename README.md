@@ -1,5 +1,3 @@
-# Muhammad's Portfolio
-
 # Data Analyst
 
 #### Technical Skills: R, Python, SQL, Power BI and Tableau

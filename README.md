@@ -3,8 +3,8 @@
 #### Technical Skills: R, Python, SQL, Power BI and Tableau
 
 ## Education								       		
-- MSc., Economics	| Bauchi State University, Gadau (_Mnarch  2023_)	 			        		
-- BSC., Economics | Bauchi State University, Gadau (_December 2017_)
+- MSc. Economics	| Bauchi State University, Gadau (_Mnarch  2023_)	 			        		
+- BSC. Economics | Bauchi State University, Gadau (_December 2017_)
 
 ## Work Experience
 **Assistant Lecturer @ Bauchi State University (_June 2023 - Present_)**

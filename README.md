@@ -28,8 +28,8 @@ Successfully aided in falattening of the COVID-19 Epi-Curve in Bauchi after only
 ### Sales Report 
 A sales report dashboards showcase comprehensive insights, integrating key performance indicators and visual analytics. Utilizing dynamic charts and graphs, the portfolio highlights trends, enabling informed decision-making and fostering strategic business growth.
 
-![COVID -19 Data analysis](/img/performance.png)
-![COVID -19 Data analysis](/img/project12.png)
+![Sales Report](/img/salesreport.png)
+![Sales Report](/img/saleskpi.png)
 
 ### Performance Dashboard
 Dynamic performance dashboard presenting key metrics for informed decision-making. Visualize trends, track goals, and optimize strategies for success.

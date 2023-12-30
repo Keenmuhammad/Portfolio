@@ -20,9 +20,15 @@
 ## Projects
 ### COVID-19 Daily Situation Report
 Daily collection, organizing, and analysis of COVID-19 data to aid in decision-making processes.
-Successfully aided in falattening of the COVID-19 Epi-Curve in Bauchi after only few weeks of implemneting the program
+Successfully aided in falattening of the COVID-19 Epi-Curve in Bauchi after only few weeks of implemneting the program.
 
 ![COVID -19 Data analysis](/img/project11.png)
+![COVID -19 Data analysis](/img/project12.png)
+
+### Sales Report 
+A sales report dashboards showcase comprehensive insights, integrating key performance indicators and visual analytics. Utilizing dynamic charts and graphs, the portfolio highlights trends, enabling informed decision-making and fostering strategic business growth.
+
+![COVID -19 Data analysis](/img/performance.png)
 ![COVID -19 Data analysis](/img/project12.png)
 
 ### Performance Dashboard

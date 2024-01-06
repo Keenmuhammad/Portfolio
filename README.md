@@ -22,7 +22,7 @@
 - Helped in significant redution of  the spread of COVID-19 in Bauchi State
 
 ## Projects
-### Am Intereactive Healthcare Dashboard
+### An Intereactive Healthcare Dashboard
 An engaging dashboard displays comprehensive heart failure data, offering real-time insights and facilitating informed decisions for healthcare professionals and patients.
 
 ![Heart Failure Dashboard](/img/Dashboard.png)

@@ -1,10 +1,14 @@
 # Data Analyst
 
-#### Technical Skills: R, Python, SQL, Power BI and Tableau
+#### Technical Skills: R, Python, SQL, Power BI, Tableau, GIS, Epi Info and NHMIS
 
 ## Education								       		
 - MSc. Economics	| Bauchi State University, Gadau (_Mnarch  2023_)	 			        		
-- BSC. Economics | Bauchi State University, Gadau (_December 2017_)
+- BSC. Economics | Bauchi State University, Gadau (_December 2018_)
+
+## Certificates								       		
+- Google Data Analytics (_October  2023_)	 			        		
+- Microsoft Power BI Analyst, Gadau (_January 2024_)
 
 ## Work Experience
 **Assistant Lecturer @ Bauchi State University (_June 2023 - Present_)**
@@ -18,15 +22,20 @@
 - Helped in significant redution of  the spread of COVID-19 in Bauchi State
 
 ## Projects
+### Am Intereactive Healthcare Dashboard
+An engaging dashboard displays comprehensive heart failure data, offering real-time insights and facilitating informed decisions for healthcare professionals and patients.
+
+![Heart Failure Dashboard](/img/Dashboard.png)
+
 ### COVID-19 Daily Situation Report
-Daily collection, organizing, and analysis of COVID-19 data to aid in decision-making processes.
+Daily collection, organizing, and analysis of COVID-19 data in Bauchi State to aid in decision-making processes.
 Successfully aided in falattening of the COVID-19 Epi-Curve in Bauchi after only few weeks of implemneting the program.
 
-![COVID -19 Data analysis](/img/project11.png)
-![COVID -19 Data analysis](/img/project12.png)
+![COVID -19 Data Analysis](/img/project11.png)
+![COVID -19 Data Analysis](/img/project12.png)
 
 ### Sales Report 
-A sales report dashboards showcase comprehensive insights, integrating key performance indicators and visual analytics. Utilizing dynamic charts and graphs to highlight trends.
+A sales report dashboards for a client showcasing comprehensive insights, integrating key performance indicators and visual analytics. Utilizing dynamic charts and graphs to highlight trends.
 
 ![Sales Report](/img/salesreport.png)
 ![Sales Report](/img/saleskpi.png)

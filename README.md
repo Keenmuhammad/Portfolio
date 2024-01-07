@@ -8,7 +8,7 @@
 
 ## Certificates								       		
 - Google Data Analytics (_October  2023_)	 			        		
-- Microsoft Power BI Analyst, Gadau (_January 2024_)
+- Microsoft Power BI Analyst (_January 2024_)
 
 ## Work Experience
 **Assistant Lecturer @ Bauchi State University (_June 2023 - Present_)**

@@ -3,12 +3,12 @@
 #### Technical Skills: R, Python, SQL, Power BI, Tableau, GIS, Epi Info and NHMIS
 
 ## Education								       		
-- MSc. Economics	| Bauchi State University, Gadau (_Mnarch  2023_)	 			        		
+- MSc. Economics	| Bauchi State University, Gadau (_March  2023_)	 			        		
 - BSC. Economics | Bauchi State University, Gadau (_December 2018_)
 
 ## Certificates								       		
-- Google Data Analytics (_October  2023_)	 			        		
-- Microsoft Power BI Analyst (_January 2024_)
+- Google Data Analytics (_2023_)	 			        		
+- Microsoft Power BI Analyst (_2024_)
 
 ## Work Experience
 **Assistant Lecturer @ Bauchi State University (_June 2023 - Present_)**
@@ -18,7 +18,7 @@
 **Monitoring and Evaluation Officer @ Bnary Lense IT Solution Limited (_January 2021 - March 2023_)**
 - Conducted data collection, processing, and analysis for spatial study evaluating the impact of proper documentation on land disputes in Bauchi Metropolis
 
-**Data Assistant (Volunteer) @ Jhpiego (_January 20220 - November 2020_)**
+**Data Assistant (Volunteer) @ Jhpiego (_January 2020 - November 2020_)**
 - Helped in significant redution of  the spread of COVID-19 in Bauchi State
 
 ## Projects

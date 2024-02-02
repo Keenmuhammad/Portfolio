@@ -15,10 +15,10 @@
 - Improved student performance in Mathematics by 55% 
 
 
-**Monitoring and Evaluation Officer @ Bnary Lense IT Solution Limited (_January 2021 - March 2023_)**
+**Monitoring and Evaluation Officer @ Bnary Lense IT Solution Limited (_January 2021 - November 2023_)**
 - Conducted data collection, processing, and analysis for spatial study evaluating the impact of proper documentation on land disputes in Bauchi Metropolis
 
-**Data Assistant (Volunteer) @ Jhpiego (_January 2020 - November 2020_)**
+**Data Assistant (Volunteer) @ Jhpiego (_August 2020 - November 2020_)**
 - Helped in significant redution of  the spread of COVID-19 in Bauchi State
 
 ## Projects

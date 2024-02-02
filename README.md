@@ -9,6 +9,7 @@
 ## Certificates								       		
 - Google Data Analytics (_2023_)	 			        		
 - Microsoft Power BI Analyst (_2024_)
+- Virtual Assistant - ALX (_2022_)
 
 ## Work Experience
 **Assistant Lecturer @ Bauchi State University (_June 2023 - Present_)**

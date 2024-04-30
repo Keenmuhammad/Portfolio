@@ -42,7 +42,7 @@ A sales report dashboards for a client showcasing comprehensive insights, integr
 ![Sales Report](/img/saleskpi.png)
 
 ### Performance Dashboard
-Dynamic performance dashboard presenting key metrics for informed decision-making. Visualize trends, track goals, and optimize strategies for success.
+Dynamic performance dashboard presenting key metrics for informed decision-making.
 
 ![Performance Dashboard](/img/performance.png)
 

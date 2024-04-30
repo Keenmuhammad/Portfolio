@@ -24,7 +24,7 @@
 
 ## Projects
 ### An Intereactive Healthcare Dashboard
-An engaging dashboard displays comprehensive heart failure data, offering real-time insights and facilitating informed decisions for healthcare professionals and patients.
+An engaging health status dashboard for a client, offering real-time insights and facilitating informed decisions for healthcare professionals and patients.
 
 ![Heart Failure Dashboard](/img/Dashboard.png)
 

@@ -10,7 +10,8 @@
 - MSc. Economics	  | Bauchi State University, Gadau (_March  2023_)	 			        		
 - BSC. Economics   | Bauchi State University, Gadau (_December 2018_)
 
-## Certificates								       		
+## Certificates			
+- Microsoft Power BI Analyst (_2024_)
 - Google Data Analytics (_2023_)	 			        		
 - Virtual Assistant - ALX (_2022_)
 

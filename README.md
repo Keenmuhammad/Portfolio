@@ -16,6 +16,10 @@
 - Virtual Assistant - ALX (_2022_)
 
 ## Work Experience
+                                                     	
+**Technical Assistant Legistecni Consulting (_December 2023 - Present_) **
+- providing technical support to the Social Budgeting Analysis and Fiscal Space Studies Bauchi team, troubleshooting, diagnosing, and resolving technical issues. Assisting with hardware and software installation, configuration, and maintenance. Performing routine data collection, entry, and analysis tasks. 
+
 **Assistant Lecturer @ Bauchi State University (_June 2023 - Present_)**
 - Improved student performance in Mathematics by 45% 
 

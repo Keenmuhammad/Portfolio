@@ -11,6 +11,8 @@
 - BSC. Economics   | Bauchi State University, Gadau (_December 2018_)
 
 ## Certificates			
+- Machine Learning Algorithms with R in Business Analytics (_2024_)
+  _(University of Illinois at Urbana-Champaign)_
 - Microsoft Power BI Analyst (_2024_)
 - Google Data Analytics (_2023_)	 			        		
 - Virtual Assistant - ALX (_2022_)
@@ -18,7 +20,7 @@
 ## Work Experience
                                                      	
 **Technical Assistant Legistecni Consulting (_December 2023 - Present_)**
-- providing technical support to the Social Budgeting Analysis and Fiscal Space Studies Bauchi team, troubleshooting, diagnosing, and resolving technical issues. Assisting with hardware and software installation, configuration, and maintenance. Performing routine data collection, entry, and analysis tasks. 
+- Providing technical support to the Social Budgeting Analysis and Fiscal Space Studies Bauchi team, troubleshooting, diagnosing, and resolving technical issues. Assisting with hardware and software installation, configuration, and maintenance. Performing routine data collection, entry, and analysis tasks. 
 
 **Assistant Lecturer @ Bauchi State University (_June 2023 - Present_)**
 - Improved student performance in Mathematics by 45% 

@@ -12,9 +12,9 @@
 
 ## Certificates			
 - Machine Learning Algorithms with R in Business Analytics (_2024_)
-- _(University of Illinois at Urbana-Champaign)_
+  _(University of Illinois at Urbana-Champaign)_
 - GIS Data Acquisition and Map Design
-- _University of Toronto_
+  _University of Toronto_
 - Microsoft Power BI Analyst (_2024_)
 - Google Data Analytics (_2023_)	 			        		
 - Virtual Assistant - ALX (_2022_)

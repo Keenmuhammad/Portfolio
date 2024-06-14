@@ -10,9 +10,9 @@
 - MSc. Economics	  | Bauchi State University, Gadau (_March  2023_)	 			        		
 - BSC. Economics   | Bauchi State University, Gadau (_December 2018_)
 
-## Certificates			
-- Machine Learning Algorithms with R in Business Analytics (_2024_) _(University of Illinois at Urbana-Champaign)_
-- GIS Data Acquisition and Map Design _University of Toronto_
+## Certificates		
+- Machine Learning Algorithms with R in Business Analytics (_2024_): _University of Illinois at Urbana-Champaign_
+- GIS Data Acquisition and Map Design (2024):    _University of Toronto_
 - Microsoft Power BI Analyst (_2024_)
 - Google Data Analytics (_2023_)	 			        		
 - Virtual Assistant - ALX (_2022_)

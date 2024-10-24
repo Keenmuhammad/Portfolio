@@ -1,12 +1,12 @@
 # Data Analyst
 
-#### Technical Skills: R, Python, SQL, Power BI, Tableau, ArcGIS, Epi Info and NHMIS
+#### Technical Skills: Data Analysis, Machine Learning, R, Python, SQL, Power BI, Tableau, DHIS2, NHMIS ArcGIS, and Epi Info
+### Databases: Oracle, MySQL, BigQuery, Apache Cassandra, Redis, Apache Kafka
 ### Other Tools: Microsoft Office Suite, Google Workspace, Zoom, Slack, Asana, GitHub, GoogleColab
 ### Soft Skills: Communication, Collaboration, Analytical Thinking, Presentation Skills, Problem Solving
 
-
 ## Education								       		
-- MSc. Business Analytics	  | Manipal Academy of Higher Education, India (_In View_)
+- MSc. Business Analytics	  | Manipal Academy of Higher Education, India (_September 2024_)
 - MSc. Economics	  | Bauchi State University, Gadau (_March  2023_)	 			        		
 - BSC. Economics   | Bauchi State University, Gadau (_December 2018_)
 

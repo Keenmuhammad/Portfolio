@@ -33,10 +33,16 @@
 - Helped in significant redution of  the spread of COVID-19 in Bauchi State
 
 ## Projects
+
 ### An Intereactive Healthcare Dashboard
 An engaging health status dashboard for a client, offering real-time insights and facilitating informed decisions for healthcare professionals and patients.
 
 ![Heart Failure Dashboard](/img/Dashboard.png)
+
+### HR Analytics Project Overview:**
+This project focuses on leveraging data analytics to enhance human resource management and decision-making within an organization. By analyzing employee data, including attrition metrics, performance evaluations, and employee engagement scores, the project aims to identify patterns and trends that can inform strategic HR initiatives.
+
+![HR Dashboard](/img/hr.png)
 
 ### COVID-19 Daily Situation Report
 Daily collection, organizing, and analysis of COVID-19 data in Bauchi State to aid in decision-making processes.

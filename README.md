@@ -39,7 +39,7 @@ An engaging health status dashboard for a client, offering real-time insights an
 
 ![Heart Failure Dashboard](/img/Dashboard.png)
 
-### HR Analytics Project Overview:**
+### Intereactive HR Dashboard
 This project focuses on leveraging data analytics to enhance human resource management and decision-making within an organization. By analyzing employee data, including attrition metrics, performance evaluations, and employee engagement scores, the project aims to identify patterns and trends that can inform strategic HR initiatives.
 
 ![HR Dashboard](/img/hr.png)

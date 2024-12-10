@@ -2,7 +2,7 @@
 
 #### Technical Skills: Data Analysis, Machine Learning, R, Python, SQL, Power BI, Tableau, DHIS2, NHMIS ArcGIS, and Epi Info
 ### Databases: Oracle, MySQL, BigQuery, Apache Cassandra, Redis, Apache Kafka
-### Other Tools: Microsoft Office Suite, Google Workspace, Zoom, Slack, Asana, GitHub, GoogleColab
+### Other Tools: Canva, PhotoDirector, Microsoft Office Suite, Google Workspace, Zoom, Slack, Asana, GitHub, GoogleColab
 ### Soft Skills: Communication, Collaboration, Analytical Thinking, Presentation Skills, Problem Solving
 
 ## Education								       		
@@ -26,11 +26,12 @@
 - Improved student performance in Mathematics by 45% 
 
 
-**Monitoring and Evaluation Officer @ Bnary Lense IT Solution Limited (_January 2021 - June 2023_)**
+**Monitoring and Evaluation Officer @ Bnary Lenses IT Solutions Limited (_January 2021 - June 2023_)**
 - Conducted data collection, processing, and analysis for spatial study evaluating the impact of proper documentation on land disputes in Bauchi Metropolis
 
 **Data Assistant (Volunteer) @ Jhpiego (_January 2020 - November 2020_)**
-- Helped in significant redution of  the spread of COVID-19 in Bauchi State
+- Contributed to a 55% reduction in COVID-19 spread in Bauchi State through data-driven strategies using DHIS2.
+- Monitored, analyzed, and reported COVID-19 data via HMIS, enabling evidence-based decision-making.
 
 ## Projects
 

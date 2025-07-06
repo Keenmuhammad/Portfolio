@@ -46,8 +46,7 @@ This project focuses on leveraging data analytics to enhance human resource mana
 ![HR Dashboard](/img/hr.png)
 
 ### COVID-19 Daily Situation Report
-Daily collection, organizing, and analysis of COVID-19 data in Bauchi State to aid in decision-making processes.
-Successfully aided in reducing the spread of the COVID-19 in Bauchi State after only few weeks of implemeting the program.
+Led the daily collection, organization, and analysis of COVID-19 data to inform evidence-based decision-making by health authorities. Played a key role in implementing data-driven interventions that contributed to a significant reduction in COVID-19 transmission within the first few weeks of the program.
 
 ![COVID -19 Data Analysis](/img/project11.png)
 ![COVID -19 Data Analysis](/img/project12.png)
